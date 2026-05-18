@@ -1,0 +1,6 @@
+streamlit
+google-genai
+python-dotenv
+PyMuPDF
+Pillow
+google-cloud-bigquery

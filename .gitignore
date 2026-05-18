@@ -1,0 +1,11 @@
+# Local settings and secrets
+.env
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Project-generated files
+data/source_pdfs/
+temp_page_*.png

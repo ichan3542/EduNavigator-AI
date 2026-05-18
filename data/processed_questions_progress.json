@@ -1,0 +1,1371 @@
+{
+  "schema_version": "2.0",
+  "extractor_version": "2026-05-15-v1",
+  "extraction_scope": [
+    "multiple_choice",
+    "true_false",
+    "fill_in"
+  ],
+  "started_at": "2026-05-15T17:23:37+08:00",
+  "updated_at": "2026-05-15T18:05:13+08:00",
+  "sources": {
+    "01_115中數勝經U1_P4-16.pdf": {
+      "total_pages": 13,
+      "pages": {
+        "1": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "a1ea880ed4e745e1c24914c5ee9424197e49c6a6",
+            "d415ac4ebbda7f676fbbaf68b652cb402d5e03d6",
+            "4589ab8eef2675c4cab0a2923c7206dbeec84f44",
+            "7347de8a71cb2bacb548c2fbadcb2e29f9e0ee73"
+          ],
+          "last_attempt_at": "2026-05-15T17:23:48+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "2": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "22273de5b390d1f58a0810dd37bff0b2c2ee7954",
+            "dd0c08dd526f1349015e25177a436c97916f1920",
+            "7e0eb6dd9dfa89314cb67ea4d9b0e333ce5e2a86",
+            "332182d1e65b11a99ec7a9260c9fe94aa7e76cab",
+            "ba6d0aa80d65748435c3728319ecb05ee8e8aa8e",
+            "ad438596713f590096144086788b4307501fb29b",
+            "0b9b2e5b3cfb2b6d9237f431b560bbe15c23a247"
+          ],
+          "last_attempt_at": "2026-05-15T17:24:29+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "3": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:24:48+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "4": {
+          "status": "completed",
+          "question_count": 11,
+          "question_ids": [
+            "9da5adea65b4bb8da2290549a738122acc95051b",
+            "4e2896cffe6adaf4739bd330b62129f3afc0106b",
+            "4a52bd79a6db384fb65f3a8e8c5782aa60ee9d13",
+            "fad8ec89d21064209d73a6192f1029880ed8c332",
+            "9c9750ddc6f9dc1b2dc31e586fb6f032204d033e",
+            "5e1dd658cfd10401233bf42e97d8c73c396d0cb3",
+            "8fe8345ee2c3990146f8c357a320df9585706200",
+            "ce76af9a99d0c174fa57863ce7081557d0213dbb",
+            "20a2c222fc51b8090a8e9b9179f0cfaa80d8ff34",
+            "d771202fc2641a25ab7c9803acf426c1d87a9ee3",
+            "f44dc7ba227fa36e7ff11a2d6139fd2501d78cd6"
+          ],
+          "last_attempt_at": "2026-05-15T17:25:24+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "5": {
+          "status": "completed",
+          "question_count": 1,
+          "question_ids": [
+            "518fc1e76f7a61958a35638de855ef9f3c751c47"
+          ],
+          "last_attempt_at": "2026-05-15T17:25:45+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "6": {
+          "status": "completed",
+          "question_count": 14,
+          "question_ids": [
+            "e805bc9bbe5c48a3d7840ebe168088364bacf035",
+            "91de9f9f7724fe23b57f13f2d700b28380c86cc4",
+            "1e0e35608372cd3a5bc3804c42a4b359afcc66c8",
+            "80bfc2c205ef2f4ab61f30451db48ed97d3a737f",
+            "26a35b45f9932644a3e437ced2cc67506345e859",
+            "a89b5152467a8a82b0a038a4566e5ddbd0bec943",
+            "f48168f4d11b4b505158810d6fe2b8f794336027",
+            "609dbe28f12aaf88a5d44c77c4df63583786461a",
+            "f822cfdad6bdd19de259ef274cfc3de4536bec84",
+            "47fcbfec4d690232fcbdb5eaaf27ea6cdbe4ffea",
+            "4ed87f90571971679df4d70b1b1b2cf36428d8b5",
+            "39003c700cc46050462f6faaa7e0dce5a0155029",
+            "5706a2450cd7f485d072689d57805d55519b5adf",
+            "15aa3ac4e24b39723a64c24b6fadbcc4678aca18"
+          ],
+          "last_attempt_at": "2026-05-15T17:26:25+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "7": {
+          "status": "completed",
+          "question_count": 5,
+          "question_ids": [
+            "2ce44a68ffa3ac3371805e3c9bdb6825c1e92207",
+            "bee81038c711a77c5d0474fcf696c93b287d4b2f",
+            "53a159d834270947b25c8eb5e235aa342db3c040",
+            "270fbdaf1ef9162a7afb4c9fd1751c19426e55b5",
+            "baa22cd9148c49bd9eb3dd07ed6936c5ca440470"
+          ],
+          "last_attempt_at": "2026-05-15T17:27:05+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "8": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "b6cc022ec6e9e3ddedd36232152cd1b11605024f",
+            "47d11529531e3ff3fb23a56d184726bcb9bfb0a4",
+            "4566131fd01fc53713e7cc0b2ba22d5294e93fb7",
+            "3a8fd7cacfb6cd4cbaf946a2abbcc148f3239689",
+            "07a810aadb7cef6272cfd83c9c53bfe46189778b",
+            "522b80cc08deda480f606e72a9362f4f9e2f3ff8"
+          ],
+          "last_attempt_at": "2026-05-15T17:27:40+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "9": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "765041f70d798a82d22e27a13dd397e6c568ec05",
+            "092fcb2115b83b2a4f87f9db2565884a23b34eb5",
+            "a4364a3c48c1bf025854218de30c5a8429b8dbf2",
+            "c884e8d5347b29a87c1682e7e73c8f5a67819308",
+            "019339571718aa13835a18619cade67d568a394e",
+            "c592fc8005764670fe9f3a733574325e6c42b043"
+          ],
+          "last_attempt_at": "2026-05-15T17:28:13+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "10": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "364bb8919784da0cc09c85067995a7faf5db7474",
+            "e537eb042cec620287ff0ab7ed9c5428f5d2ce61",
+            "05be186ad0d02aef62374e6ec16f1704e69d712b",
+            "0e870e53c50506e63418d1984ae7600eda6c616e",
+            "4542117b8accd983892e6150160af1072b224c6a",
+            "085a830a5e73314765f163148215d996668a54b7",
+            "ad4c5d41dbd7b7cb3b7ad63e768c8168a332a0dc"
+          ],
+          "last_attempt_at": "2026-05-15T17:28:54+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "11": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "3e8a34fa99ed1f0d714e9f34ba1940336da0dc11",
+            "61670d6db85dac61905d58a351ac776bf6b398f4",
+            "b3bc29b219726ef8e2b477899e2ee5044e18d1ee",
+            "31be368598c286cacc6816537ce340797a643161",
+            "c37ce6046ed74a20d48a84dca7aa2c3228c93977",
+            "d9dd3e35f7c5c40727772c032f75f6ced773fd26",
+            "157a0427890c5848779d9c6a404c4eb6f336d739"
+          ],
+          "last_attempt_at": "2026-05-15T17:29:22+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "12": {
+          "status": "completed",
+          "question_count": 5,
+          "question_ids": [
+            "60ebd3054f61574714152608fb4f05aa6edc130b",
+            "ccec077ff94d3cd684bf803caa74d3b5ce67d35a",
+            "a718ec3dbc8e90f03ac810aa55866894e8127d8d",
+            "d9502aa5da5eb38d4d9933f3476f8db00275d639",
+            "e1a559342fa1b59052e848ee5e3b5419d4b32144"
+          ],
+          "last_attempt_at": "2026-05-15T17:29:57+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "13": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "f8b5563c1bc7dfed3d7e36d3a301f6007a567819",
+            "d2dd22af12b760d6ca17b468497383b44f1ee630"
+          ],
+          "last_attempt_at": "2026-05-15T17:30:22+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        }
+      }
+    },
+    "01_115地理勝經_單元1_P007-018.pdf": {
+      "total_pages": 12,
+      "pages": {
+        "1": {
+          "status": "completed",
+          "question_count": 31,
+          "question_ids": [
+            "92e9f2371c0b86f65a64d7763aa04d72e5ffe86c",
+            "aa6a790f5c35eadca39df61b7c2a1a71650d2b11",
+            "8e8b3eeaefa5765ae0a5f8bc55605521d115b103",
+            "9623db9f10f23d8172b58d7215fd99550dda6655",
+            "61f5222ac576c83d9ab3b789e3da8b34cd7539aa",
+            "1113037264be30b3004c7d54d8a382e45705bff1",
+            "a2a25b0e795b3af606fe3bed9d51c56e7963897d",
+            "245ddb19b5686f677bddb6c4198505a0da00c6bd",
+            "abebfc7f5f7d30329695045c114e06fc09504069",
+            "af7b623568e06a99ada74e3f5f0a57faea955c3e",
+            "7f31063331aa6de8e65e7540b032c59465dd3e06",
+            "ef47514b2e40b1c5d8efa2545a1bbb520c3aa436",
+            "98fafdc9a0e2ef2fd6c4105c4918fcb285392068",
+            "38b89ddab3b626b2b0dadd2d027fd7cef7d28330",
+            "08cbef690362a05458a6d5a054174fea6fbf5589",
+            "554ed1a77b41c4a80d990c1f94095ad9d7e2d77b",
+            "e7c1b93a289282ab77ea900a4a2374f97da1affb",
+            "5fbfc549f03c318b4aecf22cab57f57d04b171b8",
+            "0c270f47d1b5707190dcacdfcf4d4cce8b58c6a5",
+            "a0bbc11e499a711f8311258343270eaed097af8c",
+            "94d16ac21a4694f84188763b38ade71ace24294f",
+            "072b4f3e0518b1f5dfca64346a3279f603f752c8",
+            "6b95244618b1ae4003393db6ad55f12467f4e27f",
+            "079f1b8bf0acf02b89fabe9261caa08ab62f5066",
+            "ef138cd0a43f9effe4055b1e146bda2a7b81e7f4",
+            "530ede59ef0b00ec4069ebe4a39d5f493e4a5c87",
+            "f5a06be17e591053603b07bdc5207fc4d8d9261a",
+            "0847e816ee4aea93d973987c3ebf17b7e152d08c",
+            "f7f6dd7073045706f99aeaa84781e6c05def0328",
+            "990ff398ff04b2d6de89eef56d68385544678d46",
+            "29cb4b000bf747c337291f101b542c0d763d0352"
+          ],
+          "last_attempt_at": "2026-05-15T17:30:59+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "2": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "6e7938c58d220ef19b4c869484c9ec7563360293",
+            "2ce792ffd72d4f46f9e3c4bb9101b26edcbf1387"
+          ],
+          "last_attempt_at": "2026-05-15T17:31:23+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "3": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "eb06eb4a5aa0252ed5060f9d944cc2457f49481e",
+            "3dfc5d3854035e823c790f718b1f8171e8e95980"
+          ],
+          "last_attempt_at": "2026-05-15T17:31:49+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "4": {
+          "status": "completed",
+          "question_count": 1,
+          "question_ids": [
+            "fa5823e38ce70a68cfbb13d2cbcc03246a219afa"
+          ],
+          "last_attempt_at": "2026-05-15T17:32:03+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "5": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:32:21+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "6": {
+          "status": "completed",
+          "question_count": 1,
+          "question_ids": [
+            "1d25c5128dbd2c8b3f18cf7c767b4561d94f7601"
+          ],
+          "last_attempt_at": "2026-05-15T17:32:49+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "7": {
+          "status": "completed",
+          "question_count": 1,
+          "question_ids": [
+            "436875eeb3a55dac5b1e5fffabe4289a61a7aa58"
+          ],
+          "last_attempt_at": "2026-05-15T17:33:10+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "8": {
+          "status": "completed",
+          "question_count": 5,
+          "question_ids": [
+            "26ed990c461098da2e23ffaa240fb0e3d1f17bc1",
+            "5f5a664d1fd858f7e174027abbc49b33c0989ccf",
+            "574067a20cc40733069f10937886c97f69f02ac5",
+            "4b22dee7635ccafd8ab057bb968ff99640b86aeb",
+            "bb7f44c2edf5c8d4090255b22e827817aff51a8d"
+          ],
+          "last_attempt_at": "2026-05-15T17:33:50+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "9": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "c55f17931ca2fe91160d34cbf6d919f6605fb69b",
+            "5e77726e695659a9424d15a7811f5b1d4c02cebf",
+            "e5b3d38e166f92cad7be1ca91d851dd36bb9920c",
+            "b587998fc4061c134ac149840393591d407f9b7c",
+            "8b9190edd6909b180a6533efe959c83d4248338f",
+            "54df516c888dcee9de85ec1663543a61adefe241"
+          ],
+          "last_attempt_at": "2026-05-15T17:34:33+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "10": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "4e451aa348609451a9a55888898440ee86eb556f",
+            "ff492a97ac2d86188c3201a9235496b1ea13b51f",
+            "0d3f7ed99e3858721c1fcbec4e2ca43e900235e9",
+            "dcd95dd87891716d968e694f608569c737039e89",
+            "a678294818b00fb842de077c40ad38c0c2fc5fbf",
+            "be365073c6c46559f093def53b3b3f8e831165a2"
+          ],
+          "last_attempt_at": "2026-05-15T17:35:09+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "11": {
+          "status": "completed",
+          "question_count": 5,
+          "question_ids": [
+            "343b4cc23d88e6b3e9ecee64b76d6fad291705bc",
+            "250c91fabaffd66c39d71bcb10c0ce8fbcb8d354",
+            "1b447f84052c1b14530a4ab7d0fb2bb31dbae113",
+            "bc434c18fc42e4bcfd6c6d98ebb1dba743735ca9",
+            "47432fb15da1157d192e13cd894e11e4a6a298ca"
+          ],
+          "last_attempt_at": "2026-05-15T17:35:34+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "12": {
+          "status": "completed",
+          "question_count": 5,
+          "question_ids": [
+            "25ca89cf846400fef118908613d4b86803b8a7d7",
+            "bbe77587071031b3cceda76a447480de4ff19396",
+            "3c53ab2cb84a88389b4ecd0ca214c3707c770ccc",
+            "7175fa8f28bdab809d17d3e0098d773e044386a0",
+            "fe9839650747e7cc3c31761527521c696016149d"
+          ],
+          "last_attempt_at": "2026-05-15T17:35:55+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        }
+      }
+    },
+    "02_115中數勝經U2_P17-32.pdf": {
+      "total_pages": 16,
+      "pages": {
+        "1": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:36:17+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "2": {
+          "status": "completed",
+          "question_count": 13,
+          "question_ids": [
+            "d238bb0278b21d87756f718323bf25de5fe66662",
+            "ef84349bb72d2174c99eed42541ba5ec1c514379",
+            "d7099d84833cf2dc0ea550f16b89dfc0de0fc6ed",
+            "533c580e5c94c750a279e72f78b414e29ec2f144",
+            "b52c7cef0301a93ff9a91fbae3408cafaa6bc6e4",
+            "8d6bbb4ba7c1e36c3256ba2f0646e25a5637db22",
+            "94b813e3678e5f858f1eda7477b3fec5816fcea2",
+            "e2a904d669935f26f97d3a04e7437417f0d62539",
+            "89131fa0e27da4bf93a8c26d3bf14b6b9c6970e1",
+            "14f91edb016c30f6350fa1b00ad037bd27714545",
+            "afed6e1cfad9b988d50e735d9358e608b69864cc",
+            "b7e4a1eb00252251a9b16533a61733569f6312d8",
+            "6c21f4e2f83cb9745240379ddf4f1d2ff53c44df"
+          ],
+          "last_attempt_at": "2026-05-15T17:37:03+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "3": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "bfe41a118136159c32a4b28153b6c07caaa2d113",
+            "be68c80daba3e7f3c2d4a3c61465413efe84b402",
+            "d6f2fff363e8c3a4b06ae7620f0f9d208a1da108",
+            "58319fa157c5cdd0309404d92a86d6b4bd23457d"
+          ],
+          "last_attempt_at": "2026-05-15T17:37:37+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "4": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "92fb1e82b57be8cfcb6a0b04dfc30dc61891d271",
+            "365502bdcd5c27187c67958bf34d3de4fcac1429",
+            "f8f405f6f28d2578def0ce9cad9360efd2b4b3c4",
+            "530b3d44dfc110c8861140e90ddd57d0716da01d"
+          ],
+          "last_attempt_at": "2026-05-15T17:37:56+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "5": {
+          "status": "completed",
+          "question_count": 8,
+          "question_ids": [
+            "6af5277f3fea4f8924f25a16029e0750a10d4291",
+            "bf675f8e329ada0850ea41a8189304c796f9f72e",
+            "a3ac2b887240fd6465ecf960df76f8f42294b707",
+            "b7165542fc42baefd30f859f3556aa590aa82bb0",
+            "e74587e44fcdb0bd9189bacf3817e340f10bb612",
+            "5b32df715ed01f768199dc02d2ea36c52b1fbc70",
+            "d40fad44bdafa6e997d5acd6f35cc1f0bd28f42e",
+            "ba68729b8fc6fd251a86e637fadbf76c9db459cb"
+          ],
+          "last_attempt_at": "2026-05-15T17:38:33+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "6": {
+          "status": "completed",
+          "question_count": 3,
+          "question_ids": [
+            "d2b3a3d409a2d309df579ddc8f9de7091d20c479",
+            "d00309d0ca8a337367ac0ea4917e0bdf4c000601",
+            "6a12ac2e630be857634c46ee2122029a99d718ea"
+          ],
+          "last_attempt_at": "2026-05-15T17:39:00+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "7": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:39:17+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "8": {
+          "status": "completed",
+          "question_count": 12,
+          "question_ids": [
+            "3c2768b8c3b55f02f166b3477a46048c94887529",
+            "1e123c2c53b4ce1293255bc0ab5631667e0a43c7",
+            "1a80b1e2180c9e65b25331fe1b8380e345ae2415",
+            "838ac05ea4b4c91f5ac5498760043950eb9d0872",
+            "957df3a4a8a4983d6b8cfec417469922d0f3d741",
+            "d905cdecee5de83306ae477fa5cce26ec76a6864",
+            "3b8c205b5dec572aeb1810676f907600da74bcac",
+            "1f17aad6d90dac11220cede4a83c0e3468002c39",
+            "c619bf9538a89698c3413265f49a1e44cadce6b2",
+            "f79fe9aa565cc92c4db8e3d033d24bdbff0edb3e",
+            "79e036197db5484988e7cbd36144d8eee63b6960",
+            "c5ecd063c9330a2d88c7096e764830cef202a394"
+          ],
+          "last_attempt_at": "2026-05-15T17:40:01+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "9": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "0d6d6150f665fef3c72383a10c14201b9d64d4c7",
+            "c7e0fdba41017513b3e298d4c79b92fb43f52a8f"
+          ],
+          "last_attempt_at": "2026-05-15T17:40:28+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "10": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "08962d77b139d9adce9fe444481c729e676e2b6d",
+            "166e0f42a4501022fef25359fd45824640514678",
+            "cc5f7c378c96c02353f76ff0b50e0b2184c4feb0",
+            "e0fa1ebcf3b96946c27faeb7b937f281967d153e",
+            "267e4500703d04574bd392d3b0ff7d5a82a22033",
+            "6c13a6b6d99d7ce597ae85aba876810b81875ef2"
+          ],
+          "last_attempt_at": "2026-05-15T17:40:55+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "11": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "ad9007faa1b51eb4397943f759a26762c307da59",
+            "650fb9ef3e742cfd95bdd2f4324371c348b72731",
+            "1cdce219d4bc079a11675537f2919c1a89375546",
+            "b7cf42514ac38533357d3b5c94983bd2996f793d"
+          ],
+          "last_attempt_at": "2026-05-15T17:41:44+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "12": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "dc4a842e61560c05e2ef59af1b18daf1500201c2",
+            "c2dffd2416470d99d44e8d92235dcf2f1a13be91",
+            "49442743b0a4b3a249fa9e7dcca8beae78dd54cc",
+            "3de2febe3c9e7bf6d72687c5379fe7435eab22dd",
+            "42adffbd8b291a3937addcaa2e6a2c4bd0854c14",
+            "8fefa957777b999f863e999f0b993db003fd7bb3"
+          ],
+          "last_attempt_at": "2026-05-15T17:42:20+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "13": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "9e0dbbbde8c7b3a257685a7eca55651db8f4f6ab",
+            "83d16021873d02a59d74dcb9854b2b6f03db7801",
+            "510bd39a0acd5ae5c992895d98c1baa65e1a9500",
+            "6efb1b854ce5f5b87781449062262258fe04dc62",
+            "0cfef63b3f9d99f1320d1518a14f73240c0f545f",
+            "d3d37e2cf32c4e81bad564d668580c61e03f782a",
+            "5dc490e190eafc66d933921f824b08ab16da0e4c"
+          ],
+          "last_attempt_at": "2026-05-15T17:42:58+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "14": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "39273181756b4a59fd7f2ea99ab97e549d773cae",
+            "b5a093205a958483e3a967a4d8b03bea0a8e03b0",
+            "bef0c3d0f35fb90ac5539d17e1464ce98957246a",
+            "e7d4955278e93c680e1041c526a4bb1c750d1749"
+          ],
+          "last_attempt_at": "2026-05-15T17:43:32+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "15": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "cd786dc080cd3096f6bfce391e5edadd59cb3ed9",
+            "391444e2517842f0cdc517ae8d1681f013b3b4bd",
+            "22cce148353e5024d7eac6a5e46ee665b3f3d493",
+            "95707a4e1312a785761a446151d1ec95f7ff82bf"
+          ],
+          "last_attempt_at": "2026-05-15T17:44:07+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "16": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:44:24+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        }
+      }
+    },
+    "02_115地理勝經_單元2_P019-032.pdf": {
+      "total_pages": 14,
+      "pages": {
+        "1": {
+          "status": "completed",
+          "question_count": 24,
+          "question_ids": [
+            "67b7d9967495ce1caa743e069d649aef748542cc",
+            "15980a832dcf1bd6b79525822457849755343634",
+            "7abbef55fd32eca573402141e1b69b5ae773bacb",
+            "122af986eddc33db692b4ce535d25d6a335f3357",
+            "c8ce4e7f944dd33091670a4614e9b7b95ef8e62e",
+            "fbba57e9c49d7d30adaf0ca62276d7a58515edaf",
+            "ebc9a2f2a7accd867f5ac959bf382698dba7e874",
+            "a03d2bdbcbc60f1ae1bad72472cfeb82308f8dcc",
+            "d474554d61cc43000b46f6b460682a8d5581270b",
+            "d8e073d5cd8f998f493ca60f7087fe3571dd2ea3",
+            "87787657af4429824ad859cdec4c8c8e304c334a",
+            "ca52c4ab7938a3745c8470188c6d01e0b3a652e3",
+            "a9357a0340faa8b2edabc91362f7d9cd9e25c82e",
+            "d0fdf65d11936a9046c9f1374cca214e1012c4ba",
+            "14f7d47f6cf5b68f703700d1c761779bcaf339cb",
+            "e97767b41cceec3e9b386c18d618cd87a537be18",
+            "a8b0d19d3568bacd397f03f08ea3e12cb2835860",
+            "9f18eb873c21b450b586e48af7406d48bfa2e766",
+            "b8cbd5a1d7d4fcb3e59cfcd2ca47a74c0d0a576f",
+            "ff6d2770043b5f29dfd25dc2025212e18b4946a5",
+            "97f8646ddf2a5bbe6ddf2a18a515458796b926ff",
+            "043623cd72e5e23b536442bf8ed405ac174848bd",
+            "b1c4472afc1cd3ced1371587b7044c48fb480c53",
+            "04d4f8963a4cd78a96e1b7e238c088a0155ad959"
+          ],
+          "last_attempt_at": "2026-05-15T17:44:56+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "2": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "97dca1297db72a40d0566fef3f3916a67770ecc9",
+            "d17ea906e948b980acbbc9972c65e77187b7cd50"
+          ],
+          "last_attempt_at": "2026-05-15T17:45:36+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "3": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "1fd1d8464eefd39bd44de59ef556254476a60683",
+            "346e9931dd8432d2c83fd5f9f591adc20f8ab932"
+          ],
+          "last_attempt_at": "2026-05-15T17:46:00+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "4": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "95939135244a3a45632e0ad4e8bc17248bf5ca47",
+            "a9c6dbbc14009009afb3dde81887fe3c372d8fe3"
+          ],
+          "last_attempt_at": "2026-05-15T17:46:25+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "5": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:46:41+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "6": {
+          "status": "completed",
+          "question_count": 3,
+          "question_ids": [
+            "9a1bdb6a35efb64e1071824974551180cccd919f",
+            "3201f7e1070c7be425b71da2b8efa6370471ae37",
+            "c2b9faeb7990d26414e1afc76aa8b1335896f4ce"
+          ],
+          "last_attempt_at": "2026-05-15T17:47:09+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "7": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "fb35bb6413604c76d479f5e65d6855410611c2c1",
+            "d83778bdce93cf664236eca113adf387c0ea9234"
+          ],
+          "last_attempt_at": "2026-05-15T17:47:37+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "8": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:47:51+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "9": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "2c5a5c7c0283523d68c33670d7c4ce27d5ac248b",
+            "5ed5afe9b79bba76b33ded36188ce4792fc4df0f"
+          ],
+          "last_attempt_at": "2026-05-15T17:48:20+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "10": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "1f0ca3e6ccd78e92c482bf2d2fa9a6307c54d57c",
+            "50af9e5342aedc4ba372acd7e1898f8d490b6e0f",
+            "9b0ae18c7a344069fd3281bd7a8dfe3ec5e3e2a1",
+            "5c3d922fdfdac1e016caf11e389e70832eaed106",
+            "9217574eb0ccc68ec76660ac709f54c989b81ae8",
+            "16ded7e90a36d8e867283c7c9ac79e763605a017"
+          ],
+          "last_attempt_at": "2026-05-15T17:48:52+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "11": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "8135872797914cb0b9c35b471cdaf94b7af86c03",
+            "623cd6346bc377f8d4fdfb47148ea2ae9463c2c8",
+            "3781daa6043b56665e6255724483bdccacc10f41",
+            "b8e7154e1b58902e6af662b0a4e8f72897a07c88",
+            "7b95b8e59e189c9d894692f5c7fe88b924c815a1",
+            "c858429ceb90a4b9da02c4463c4e9a8d8691a8ff",
+            "3b0b805ce45a5ddd02812e74765eb9f2de3fd3ba"
+          ],
+          "last_attempt_at": "2026-05-15T17:49:42+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "12": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "fd0a6a857d023bd175df13a8aa1ae5ccabefc708",
+            "4dff16f9653190b0ed983c81e4c919ee3ac55686",
+            "7cc4b6ad90c407fb07cbfd168e5fd59bea6f6e96",
+            "91695d860751b2f346f4c3cf7c74970a8fe29610",
+            "4a73f25801641a7f6a61e80bd469e10aeaf5b426",
+            "377927ebc88f6ff447d3a7fde2479471fd61b838",
+            "bcdc22b6e6555e139c42e8388d937a63342f07a6"
+          ],
+          "last_attempt_at": "2026-05-15T17:50:10+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "13": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "7a0dfed8649dc044544b028da00d0ea0b03b23b1",
+            "5e56f64883722b786f502d69f076d981b4a5ea85",
+            "81656f544ae1aeaab5dc9b45c85d3e46cf8d2567",
+            "b1815da1417193f16dd6b55e695788fa08cdc7cf",
+            "2c0467ff71365acab854d03c204a22ebac8b70d9",
+            "e1670d31979615b8e2b901790afca38324465426",
+            "8c97ca8bdb89d328a3215b4d7e8d1b23d5864db4"
+          ],
+          "last_attempt_at": "2026-05-15T17:50:53+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "14": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "74142d39adb8b5c05eca9f118b44a891fbe1b809",
+            "5062c670f0231699396c21b6f93167ec51a85c39",
+            "e7531b200fe936948420812696d03568b5a7f1f2",
+            "b10fe944d5f6a44e1efc2d23143adfd538884ebf",
+            "19b7e15e73cb8aa7c09250b9c1a3fb01f37d6282",
+            "fcaed2ff28295ceca74a6c2f67c3e01533a133b6"
+          ],
+          "last_attempt_at": "2026-05-15T17:51:20+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        }
+      }
+    },
+    "03_115中數勝經U3_P33-44.pdf": {
+      "total_pages": 12,
+      "pages": {
+        "1": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "315b2e09c5a97f461639e08b80896d9202363beb",
+            "14c893036bc117736e7677493998389dafaa49be",
+            "98a4793bf770d6293db63feef3afb6bc427ddb1e",
+            "e592f3bed4880daaa961f9b001702d30ae4b2d6f"
+          ],
+          "last_attempt_at": "2026-05-15T17:51:44+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "2": {
+          "status": "completed",
+          "question_count": 8,
+          "question_ids": [
+            "4574e66dee9714731deb2c945ed40598b6142fe8",
+            "e49a3cd7676a3a4cc65de3c1f3100f95b19ceb5b",
+            "5fccc27c750e8473f7d51c6b0135a16f9b65b1c7",
+            "70c8f49591440c2e5b3261c3914d48f89bd521a4",
+            "c321136b4b035383e55e898e217e250751284580",
+            "39af3729f5d79886505a22d3a2062fae66bb6726",
+            "e892e1598c697d354605c15570c40f18fbc5db88",
+            "e1bb58c6093b9c215426bdc11e605cdd50ce3ebe"
+          ],
+          "last_attempt_at": "2026-05-15T17:52:18+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "3": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "c3fcf63b6c6224e9531de98f0b61d4a08a4aecb9",
+            "fd634e4fff60a109c3c0b9deae1ad77ffca6a830",
+            "ad5d798552d83bb2e260622acbc12bc7828ad462",
+            "cc9906a2f17163f43d472a07f84c5f8479f097d8",
+            "b6b122155a0108e6737022edd4b1bbfc8403dc81",
+            "76c8cdb6a9dd33c1fd51f4c77a83f23369bde705"
+          ],
+          "last_attempt_at": "2026-05-15T17:52:52+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "4": {
+          "status": "completed",
+          "question_count": 3,
+          "question_ids": [
+            "987063756bd8c94879141afde569a087a57bc09b",
+            "50e97610b559491edb224fe29406fd9a9c450fdc",
+            "8392d148d723ed211f59623971e79d45831cfe39"
+          ],
+          "last_attempt_at": "2026-05-15T17:53:14+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "5": {
+          "status": "completed",
+          "question_count": 9,
+          "question_ids": [
+            "2e4f68a1a31409d2c883935aab27db3a0a445325",
+            "9e5777ba7bd6981efdf760ffa9ebd5508aa9746a",
+            "2f67c8ba762538fe23e632b9a73bccd98d97401d",
+            "8fe38c94346cc6bcc0b5f30f0b3022e81d823530",
+            "6ed12ba0d1c10bc2f016c2899ea966800caed0b1",
+            "6363a494865743b1c07b0853dd7b6d91bd0dc2f8",
+            "e06e2e5f0a2b485b21bd89f65443044e10984c95",
+            "939659b6175be1b97e5741aee6432e51ff79b84e",
+            "92921b6f743d0ea5996170f1249f41d3f978760e"
+          ],
+          "last_attempt_at": "2026-05-15T17:54:01+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "6": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "ff4fcb6e219a5606bcfa896d9497222cb4173289",
+            "facd9f1ecf89f1ba291ec135a07ec8e0bf390982",
+            "f91e20a09ddb607f0db05a3ba4ae12279a6cd264",
+            "6e889128ac314b50c73bbcc1210ee129fd186098"
+          ],
+          "last_attempt_at": "2026-05-15T17:54:31+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "7": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "ff4589f74fda4b995372ebbd98867e4d1e511a6d",
+            "5619fb79648232804507f41cf59c529d3e6db58c",
+            "c79f68b5fe18c295cc4187033b4d8ee8aa190da5",
+            "2b16ae1e40e5d2ed82d9cb67cff6b36e228b458b"
+          ],
+          "last_attempt_at": "2026-05-15T17:55:05+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "8": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "cfec26c620b46590686609ff8eed170eb656f10d",
+            "62306d46633f043f23a6e71c7bd3c869f0b0af31",
+            "ec7762dd4cf019946e29596beadce0a1d3df4dd2",
+            "dcd01a211130fc558d20b1c6cd8184e1a11d1819",
+            "f0bd7479dddbe4850b38cfc3e02d57aa883e33c8",
+            "3dd3a0714986edeccffff1adbedb61bc46886528"
+          ],
+          "last_attempt_at": "2026-05-15T17:55:32+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "9": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "372a3e2f1092214bed0e97a8c56d5927cb8384d9",
+            "c4b5fa96c242ed4912ea53e5e7f292f50a704f0e",
+            "e11d9ea93d19dc92b070e0f1be2d338f1df917b1",
+            "f616bf2702cbd9ac6988a126cabff1f26bbf8006",
+            "34b157d429ba5e0e5a707592577b06f7cf02f619",
+            "aa6cd230c5551ea0fb9616c7c93c996eca7ed26d",
+            "c5fa43627e14b489efd63f7281b41b90d21b6c86"
+          ],
+          "last_attempt_at": "2026-05-15T17:56:08+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "10": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "058d58f65a3d420bfb795ff4930074182c93676a",
+            "4d6701f1fabd26155c19c8f7f1022f91f6271fc8",
+            "cb2c841b7cea1f23de3a19456b94426ad1324866",
+            "ea1d8d0c111fb27bf433deb87e3c63ea0f395536"
+          ],
+          "last_attempt_at": "2026-05-15T17:56:33+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "11": {
+          "status": "completed",
+          "question_count": 3,
+          "question_ids": [
+            "17c8f280adfd76d64fe00a21e1d6bda1e7a0efaf",
+            "a308e376aa2c75f619f4fa29e5a4111cd455ea89",
+            "c0acf18bf605264841c0959f4da38fc5382c5dba"
+          ],
+          "last_attempt_at": "2026-05-15T17:56:55+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "12": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "da6d7cb6bd42b7f974573f8a052262b7904c9b27",
+            "5061c6e519211870922c573f79279fe8c4572998"
+          ],
+          "last_attempt_at": "2026-05-15T17:57:21+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        }
+      }
+    },
+    "03_115地理勝經_單元3_P033-049.pdf": {
+      "total_pages": 17,
+      "pages": {
+        "1": {
+          "status": "completed",
+          "question_count": 12,
+          "question_ids": [
+            "2e45621c6a99a89aaf8c04f40fd5dfa62a00a701",
+            "63e34af39f7e6a9971dec81a093ee732028388fb",
+            "3c76cfe667d65ef8486d3b635c35a14eded616cb",
+            "7de9034724573967ba5148b4ab38e19388b3658d",
+            "742d6121e2c6c2baf228ab4485a43dbe39213176",
+            "599ef9174cc4e6224a054bdb064bac5e07ef4981",
+            "5e373b3f4933775673695024c7c42cba5726ceb1",
+            "ab70f832e9c2536fa2eebfb711292a29eec31d33",
+            "64d87087df777296355c5773e02dea43c2b2e8e5",
+            "2a54453a9466708ca88e733629b6be9c35f14b8e",
+            "6eaa77f7eda978c9eb85ebd5f6a52f3c36c01d62",
+            "3539c882ce1e62e3f3867d47e0701ec28c0bc504"
+          ],
+          "last_attempt_at": "2026-05-15T17:58:03+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "2": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:58:20+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "3": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T17:58:35+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "4": {
+          "status": "completed",
+          "question_count": 5,
+          "question_ids": [
+            "48bdf5ecb6b34dcb79b13e5cb56c1d7686702079",
+            "b495444f2c7aa052021fe1929a2d444091cf5b44",
+            "36c84cae3db0236c9b6f681b225b629ba0c5c8ea",
+            "27ab92eb9c5697b1f049721844d32e3ec2e60b25",
+            "e11a6c911d70a93ce9fab0f304680227af7deb6c"
+          ],
+          "last_attempt_at": "2026-05-15T17:59:10+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "5": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "a714d8085168614149c53efef2745c52e68ee61b",
+            "79ea26908c494c6d3e251fcea56404c8032c6f67"
+          ],
+          "last_attempt_at": "2026-05-15T17:59:30+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "6": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "3e66c7439493c010ab1997122726cfa50fcce613",
+            "646d8855f7ecca2453ac46ba6d7961225548e58c"
+          ],
+          "last_attempt_at": "2026-05-15T17:59:56+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "7": {
+          "status": "completed",
+          "question_count": 0,
+          "question_ids": [],
+          "last_attempt_at": "2026-05-15T18:00:12+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "8": {
+          "status": "completed",
+          "question_count": 3,
+          "question_ids": [
+            "9aae80474c0f6e873e65b43de3e2fc6f6db0c571",
+            "710a7e20aefba5334bae27d160bb033687903d25",
+            "7570e0cf404c5edcea7d157754807b90f1a62747"
+          ],
+          "last_attempt_at": "2026-05-15T18:00:42+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "9": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "580026d534dd5693a439cf6f7b459fcdd88bea57",
+            "c0d713f6bca093f1c1a71756ca33b804ef3d7974",
+            "f107e65e83ca3b2bb988cd75893c0822cb26d8b0",
+            "9e5b8eef2718df17517231f6d0c1967a66134226",
+            "0c18b809b20bf4653d8806701a2e73cb3664b1ea",
+            "dfb9f5374090c6c43c9fde91de15277e7fc609ef"
+          ],
+          "last_attempt_at": "2026-05-15T18:01:13+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "10": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "e1ee14ca2261a6014cb76a9d1d12e042b4677715",
+            "64f197f4a82499d069bca085935917459d8c8da3",
+            "816ad0b2a2b0bd440aebafd9d00e15dd53d77343",
+            "bc21613694fcf64c2cacd6989bd68b1bef29b9cc",
+            "ba980ea2688e452ee6e6cf34adca363057946cb8",
+            "c0e4d7a994eaded76777ee96bd97b09c0df760a8"
+          ],
+          "last_attempt_at": "2026-05-15T18:01:42+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "11": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "915ffb147154e94e2a9e4d1841924951be231ed2",
+            "d171c15c3c23b7d5bfea9d7d286cba1d16ce6a0f",
+            "27c840451adc582595c05967921c992699013477",
+            "80cabcae22310357d227d866fff190633cd8c879",
+            "19f0a110207148817c9adf543fcd1170c89449d8",
+            "6aa4517cc1be38ef31ed0d75c9392679cef65b36",
+            "685b6ecc6d1e7aff39bd1e53a36bcdbba24630fb"
+          ],
+          "last_attempt_at": "2026-05-15T18:02:13+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "12": {
+          "status": "completed",
+          "question_count": 7,
+          "question_ids": [
+            "424ace75d85646542545e3bf6af29da4c47241d3",
+            "1b0c6cfdf3dcf11761e7b5bc0ab3058ad72a8b65",
+            "c9b2700483fa422d3294b63f1b8421eecc6f4235",
+            "c5f5c7331b7bce8e47ac698fec0fcdbba8f22b66",
+            "67a198ae8f02d5215e12bb06b88b930a69a53061",
+            "13e282a640810010a89e85ebd6f0f66d760d4102",
+            "2ec4b98311e74cf0b29cd28ae66f99545a7da5df"
+          ],
+          "last_attempt_at": "2026-05-15T18:02:53+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "13": {
+          "status": "completed",
+          "question_count": 6,
+          "question_ids": [
+            "d9bdeca913a3b2a263162e003c036d891fc7ca8a",
+            "e59b206d50dff7dda1a1d7cae6202438eff966e2",
+            "2a4e3aaf18b811bb7499c5b0dcf83ffab85101a8",
+            "9aa403f34737f5e3d9489728093749fee0c5887b",
+            "4ca5735e23b4a35dbc55a8a1448d50d1119d3780",
+            "9ebbbbf637c7690c7c4f25fe388bebe7056516fe"
+          ],
+          "last_attempt_at": "2026-05-15T18:03:13+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "14": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "7df50caf1382ecb719e03e26021ba6ec9ea12f99",
+            "8374625ce719a1e341ca2c81faf75652d8229758"
+          ],
+          "last_attempt_at": "2026-05-15T18:03:51+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "15": {
+          "status": "completed",
+          "question_count": 2,
+          "question_ids": [
+            "3445fcdb8aeaa71e669251346c4b2aeda1ff0b8f",
+            "66e7cdb860873accdeab08cc5916f56b585be1e5"
+          ],
+          "last_attempt_at": "2026-05-15T18:04:13+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "16": {
+          "status": "completed",
+          "question_count": 4,
+          "question_ids": [
+            "0ebebedb78dede84b5e333978679b34609e8fccd",
+            "0874a3589a1020b175d4ac8bd7c5f96b69b414f1",
+            "31ac4212c45004fb6c142699900ca7ea5198dfb4",
+            "c1f1c8dfba377f9c34d307b4e282c68d2bb80f0b"
+          ],
+          "last_attempt_at": "2026-05-15T18:04:34+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        },
+        "17": {
+          "status": "completed",
+          "question_count": 3,
+          "question_ids": [
+            "58f1769110ac10075dc17c62a811961162b57167",
+            "5e5c7bfa4a76e6fc37ef24f4fbfa0d86f675bef4",
+            "e1764850bc5765b1e08a86f4618ac8bba58c3a90"
+          ],
+          "last_attempt_at": "2026-05-15T18:05:05+08:00",
+          "last_error": null,
+          "methods_used": [
+            "gemini"
+          ]
+        }
+      }
+    }
+  }
+}
