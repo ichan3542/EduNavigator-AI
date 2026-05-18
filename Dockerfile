@@ -1,5 +1,5 @@
-# 1. 使用輕量級的 Python 3.12.11 映像檔作為基礎
-FROM python:3.12.11-slim-bookworm
+# 1. 使用輕量級的 Python 3.12 映像檔作為基礎
+FROM python:3.12-slim-bookworm
 
 # 2. 設定容器內的工作目錄
 WORKDIR /app
@@ -8,12 +8,14 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y \
     build-essential \
     libgl1-mesa-glx \
+    libglib2.0-0 \
     tzdata \
     && rm -rf /var/lib/apt/lists/*
 
 # 4. 複製相依套件清單並安裝
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
 # 5. 複製專案原始碼到容器中
 COPY . .
@@ -22,13 +24,12 @@ COPY . .
 RUN mkdir -p data/source_pdfs
 
 # 7. 設定環境變數
+# 設定 Streamlit 監聽的通訊埠 (Cloud Run 預設為 8080)
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     LANG=C.UTF-8 \
-    TZ=Asia/Taipei
-
-# 設定 Streamlit 監聽的通訊埠 (Cloud Run 預設為 8080)
-ENV PORT=8080
+    TZ=Asia/Taipei \
+    PORT=8080
 
 # 8. 暴露通訊埠
 EXPOSE 8080
